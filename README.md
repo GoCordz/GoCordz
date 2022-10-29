@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @GoCordz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-GoCordz/GoCordz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```go 
+GoCordz 
+```
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/116932476/198799050-e47bae97-de86-4ce4-a6d6-d55b23eb0679.png" />
+</p>
+
